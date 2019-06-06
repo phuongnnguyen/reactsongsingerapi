@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactsongsingerapi/static/css/main.24a60167.chunk.css",
-    "main.js": "/reactsongsingerapi/static/js/main.d989ded7.chunk.js",
-    "main.js.map": "/reactsongsingerapi/static/js/main.d989ded7.chunk.js.map",
+    "main.js": "/reactsongsingerapi/static/js/main.b47eda06.chunk.js",
+    "main.js.map": "/reactsongsingerapi/static/js/main.b47eda06.chunk.js.map",
     "runtime~main.js": "/reactsongsingerapi/static/js/runtime~main.6d37f4d8.js",
     "runtime~main.js.map": "/reactsongsingerapi/static/js/runtime~main.6d37f4d8.js.map",
     "static/js/2.2df29eb2.chunk.js": "/reactsongsingerapi/static/js/2.2df29eb2.chunk.js",
     "static/js/2.2df29eb2.chunk.js.map": "/reactsongsingerapi/static/js/2.2df29eb2.chunk.js.map",
     "index.html": "/reactsongsingerapi/index.html",
-    "precache-manifest.5b81229d076d9bcdf10201177c6d298f.js": "/reactsongsingerapi/precache-manifest.5b81229d076d9bcdf10201177c6d298f.js",
+    "precache-manifest.594d0cb71f1337414b5e8b1732a504d0.js": "/reactsongsingerapi/precache-manifest.594d0cb71f1337414b5e8b1732a504d0.js",
     "service-worker.js": "/reactsongsingerapi/service-worker.js",
     "static/css/main.24a60167.chunk.css.map": "/reactsongsingerapi/static/css/main.24a60167.chunk.css.map"
   }

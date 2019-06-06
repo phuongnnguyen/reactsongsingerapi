@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a054a26193c0b49c07598c2ad5044aa0",
+    "revision": "6642620df245f20ebf05a1139989aac1",
     "url": "/reactsongsingerapi/index.html"
   },
   {
-    "revision": "84cd1846f3df919df06a",
+    "revision": "54c824b8cb4b5c1a2c72",
     "url": "/reactsongsingerapi/static/css/main.24a60167.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactsongsingerapi/static/js/2.2df29eb2.chunk.js"
   },
   {
-    "revision": "84cd1846f3df919df06a",
-    "url": "/reactsongsingerapi/static/js/main.d989ded7.chunk.js"
+    "revision": "54c824b8cb4b5c1a2c72",
+    "url": "/reactsongsingerapi/static/js/main.b47eda06.chunk.js"
   },
   {
     "revision": "626a440e5367ce04698f",
