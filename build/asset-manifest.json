@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactsongsingerapi/static/css/main.d3dd8290.chunk.css",
+    "main.js": "/reactsongsingerapi/static/js/main.d989ded7.chunk.js",
+    "main.js.map": "/reactsongsingerapi/static/js/main.d989ded7.chunk.js.map",
+    "runtime~main.js": "/reactsongsingerapi/static/js/runtime~main.6d37f4d8.js",
+    "runtime~main.js.map": "/reactsongsingerapi/static/js/runtime~main.6d37f4d8.js.map",
+    "static/js/2.2df29eb2.chunk.js": "/reactsongsingerapi/static/js/2.2df29eb2.chunk.js",
+    "static/js/2.2df29eb2.chunk.js.map": "/reactsongsingerapi/static/js/2.2df29eb2.chunk.js.map",
+    "index.html": "/reactsongsingerapi/index.html",
+    "precache-manifest.a4c4f7d11e366b2c79aca9798dea2f15.js": "/reactsongsingerapi/precache-manifest.a4c4f7d11e366b2c79aca9798dea2f15.js",
+    "service-worker.js": "/reactsongsingerapi/service-worker.js",
+    "static/css/main.d3dd8290.chunk.css.map": "/reactsongsingerapi/static/css/main.d3dd8290.chunk.css.map"
+  }
+}
