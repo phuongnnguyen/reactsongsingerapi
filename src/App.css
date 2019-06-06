@@ -1,0 +1,9 @@
+html, body, #root, .App, .SongsArea {
+	height: 100%;
+}
+#addsinger, #addsong {
+	width: 300px;
+}
+input, select {
+ display: table-cell;
+}
